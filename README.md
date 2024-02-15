@@ -1,5 +1,5 @@
 # Netflix_dsml
 
 
-## data visualization of Netflix Data Using Power b
-i
+## data visualization of Netflix Data Using Power bi
+
